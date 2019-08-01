@@ -1,0 +1,18 @@
+i=0, j=0 
+O to O is evaluated other way 
+i=0, j=1 
+O to H1 distance is: 0.9690005374652793 
+i=0, j=2 
+O to H2 distance is: 0.9690003348647513 
+i=1, j=0 
+H1 to O is evaluated other way 
+i=1, j=1 
+H1 to H1 is evaluated other way 
+i=1, j=2 
+H1 to H2 distance is 1.52693633514957 over 1.5 and no bonding 
+i=2, j=0 
+H2 to O is evaluated other way 
+i=2, j=1 
+H2 to H1 is evaluated other way 
+i=2, j=2 
+H2 to H2 is evaluated other way 

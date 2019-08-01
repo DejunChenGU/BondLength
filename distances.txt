@@ -1,0 +1,144 @@
+C to C is the same atom 
+C to H is 1.08757 
+C to C is 1.402719000263417 
+C to H is 2.1624085322852387 --> not bonded 
+C to C is 2.429581731594967 --> not bonded 
+C to H is 3.4150253135957866 --> not bonded 
+C to C is 2.80544 --> not bonded 
+C to H is 3.89301 --> not bonded 
+C to C is 2.429581731594967 --> not bonded 
+C to H is 3.4150253135957866 --> not bonded 
+C to C is 1.402719000263417 
+C to H is 2.1624085322852387 --> not bonded 
+H to C  is evaluated 
+H to H is the same atom 
+H to C is 2.16240266578637 --> not bonded 
+H to H is 2.490292347335951 --> not bonded 
+H to C is 3.4150174914046927 --> not bonded 
+H to H is 4.313315934313182 --> not bonded 
+H to C is 3.89301 --> not bonded 
+H to H is 4.98058 --> not bonded 
+H to C is 3.4150174914046927 --> not bonded 
+H to H is 4.313315934313182 --> not bonded 
+H to C is 2.16240266578637 --> not bonded 
+H to H is 2.490292347335951 --> not bonded 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C is the same atom 
+C to H is 1.087578347062868 
+C to C is 1.40272 
+C to H is 2.162410755846354 --> not bonded 
+C to C is 2.429581731594967 --> not bonded 
+C to H is 3.4150174914046927 --> not bonded 
+C to C is 2.805438000526834 --> not bonded 
+C to H is 3.893016347589617 --> not bonded 
+C to C is 2.42958 --> not bonded 
+C to H is 3.415023084343648 --> not bonded 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H is the same atom 
+H to C is 2.162410755846354 --> not bonded 
+H to H is 2.4903 --> not bonded 
+H to C is 3.4150253135957866 --> not bonded 
+H to H is 4.313315934313182 --> not bonded 
+H to C is 3.893016347589617 --> not bonded 
+H to H is 4.980594694652437 --> not bonded 
+H to C is 3.415023084343648 --> not bonded 
+H to H is 4.31332 --> not bonded 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C is the same atom 
+C to H is 1.087578347062868 
+C to C is 1.402719000263417 
+C to H is 2.16240266578637 --> not bonded 
+C to C is 2.42958 --> not bonded 
+C to H is 3.415023084343648 --> not bonded 
+C to C is 2.805438000526834 --> not bonded 
+C to H is 3.893016347589617 --> not bonded 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H is the same atom 
+H to C is 2.1624085322852387 --> not bonded 
+H to H is 2.490292347335951 --> not bonded 
+H to C is 3.415023084343648 --> not bonded 
+H to H is 4.31332 --> not bonded 
+H to C is 3.893016347589617 --> not bonded 
+H to H is 4.980594694652437 --> not bonded 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C is the same atom 
+C to H is 1.08757 
+C to C is 1.402719000263417 
+C to H is 2.1624085322852387 --> not bonded 
+C to C is 2.429581731594967 --> not bonded 
+C to H is 3.4150253135957866 --> not bonded 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H is the same atom 
+H to C is 2.16240266578637 --> not bonded 
+H to H is 2.490292347335951 --> not bonded 
+H to C is 3.4150174914046927 --> not bonded 
+H to H is 4.313315934313182 --> not bonded 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C is the same atom 
+C to H is 1.087578347062868 
+C to C is 1.40272 
+C to H is 2.162410755846354 --> not bonded 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H is the same atom 
+H to C is 2.162410755846354 --> not bonded 
+H to H is 2.4903 --> not bonded 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C  is evaluated 
+C to H  is evaluated 
+C to C is the same atom 
+C to H is 1.087578347062868 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H  is evaluated 
+H to C  is evaluated 
+H to H is the same atom 
